@@ -94,6 +94,10 @@ VALUES (1, 1, 54115555555, 'usuario1@example.com');
 INSERT INTO CONTACTOS (ID_CONTACTO, ID_USUARIO, TELEFONO, CORREO)
 VALUES (2, 2, 54225555555, 'usuario2@example.com');
 
+/*
 
+REPOSITORIO EN GITHUB COMO PIDE EL EJERCICIO.
+https://github.com/LuisWork/abpro-5-luiszambrano
+*/
 
 
